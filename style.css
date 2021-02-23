@@ -1,0 +1,26 @@
+body {
+  background-color:#72B0C4;
+  border: 2px solid #19272B;
+  margin: 50px 120px;
+}
+
+h1 {
+  color: #414445;
+  font-family: Tahoma, sans-serif;
+}
+
+h2 {
+  color: #414445;
+  font-family: Tahoma, sans-serif;
+}
+
+h3 {
+  color: #0F607A;
+  font-family: Tahoma, sans-serif;
+  font-size: small;
+  letter-spacing: 0cm;
+}
+li {
+  color: #0F607A;
+  font-family: Tahoma, sans-serif;
+}
